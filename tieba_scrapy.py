@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #抓取百度贴吧---生活大爆炸吧的基本内容
 #爬虫线路： requests - bs4
-#Python版本 : 3.6
+#Python版本 : 3.5.1
 #http://tieba.baidu.com/f?kw=%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8&ie=utf-8&pn=0
 '''
 # 一个大的li标签内包裹着很多个div标签，而我们要的信息就在这一个个div标签之内：
